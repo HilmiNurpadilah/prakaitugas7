@@ -1,0 +1,17 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.DS_Store
+*.sqlite3
+*.db
+*.h5
+*.save
+*.keras
+.idea/
+.vscode/
+.env.*
+data/loss_plot.png
+data/evaluation.txt
